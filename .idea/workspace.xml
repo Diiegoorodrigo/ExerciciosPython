@@ -4,44 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e05e5db0-c767-4c7f-8f4b-e6245076f4dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex075.py" afterDir="false" />
+    <list default="true" id="e05e5db0-c767-4c7f-8f4b-e6245076f4dc" name="Changes" comment="test jet">
+      <change afterPath="$PROJECT_DIR$/ex078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex085.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Diiegoorodrigo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Diiegoorodrigo/ExerciciosPython.git&quot;,
+    &quot;accountId&quot;: &quot;cdecae38-2548-48a9-93b2-5b7c54e47823&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ex060.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/ex061.py" root0="SKIP_INSPECTION" />
@@ -68,6 +51,8 @@
     <setting file="file://$PROJECT_DIR$/ex070.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/ex071.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/ex072.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ex078.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ex081.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -135,6 +120,13 @@
     "Python.ex063.executor": "Run",
     "Python.ex065.executor": "Run",
     "Python.ex075.executor": "Run",
+    "Python.ex076.executor": "Run",
+    "Python.ex077.executor": "Run",
+    "Python.ex080.executor": "Run",
+    "Python.ex081.executor": "Run",
+    "Python.ex082.executor": "Run",
+    "Python.ex084.executor": "Run",
+    "Python.ex085.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -155,6 +147,27 @@
       <option name="presentableId" value="Default" />
       <updated>1722879381086</updated>
     </task>
+    <task id="LOCAL-00001" summary="test jet">
+      <option name="closed" value="true" />
+      <created>1724358413625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724358413625</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test jet">
+      <option name="closed" value="true" />
+      <created>1724360036335</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724360036335</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test jet" />
+    <option name="LAST_COMMIT_MESSAGE" value="test jet" />
   </component>
 </project>
