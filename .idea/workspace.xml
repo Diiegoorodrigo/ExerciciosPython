@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e05e5db0-c767-4c7f-8f4b-e6245076f4dc" name="Changes" comment="test jet">
-      <change afterPath="$PROJECT_DIR$/ex078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex090.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,6 +124,11 @@
     "Python.ex082.executor": "Run",
     "Python.ex084.executor": "Run",
     "Python.ex085.executor": "Run",
+    "Python.ex086.executor": "Run",
+    "Python.ex087.executor": "Run",
+    "Python.ex088.executor": "Run",
+    "Python.ex089.executor": "Run",
+    "Python.ex090.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -163,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724360036335</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test jet">
+      <option name="closed" value="true" />
+      <created>1724946183047</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724946183047</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
